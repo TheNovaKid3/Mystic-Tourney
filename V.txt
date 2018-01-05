@@ -1,0 +1,24 @@
+Punch
+4
+A weak punching attack. Doesn't do much.
+0
+Bite
+7
+A simple bitting attack. May cause poison
+4
+Dream Theif
+5
+Slams the mind of a target with a wave of mental energy. Does more damgae if target is asleep
+7
+Hypnosis
+0
+A Non-damaging move that puts the target to sleep
+2
+Blood Bank
+0
+Rupert feeds on an extra bag of blood to heal himself.
+16
+Descendent of Tepes
+14
+Rupert attacks and feeds off the blood of the target to heal himself.
+17

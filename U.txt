@@ -1,0 +1,24 @@
+Magic Missle
+4
+A weak burst of magic. Doesn't do much.
+0
+Cold Snap
+5
+A swirling of ice magic that torrents through the target. Does more damage if target is frozen
+10
+Rainbow Wave
+8
+A wave of rainbow colored magic.
+0
+Mystery Malady
+7
+A blast of counfusing magic which inflicts a random status.
+18
+Light Heal
+0
+Precisely what it says on the tin, Lena Magical heals herself by converting light into healing energy.
+16
+Rainbow Massacre
+12
+A Super Charged Rainbow Wave that, as a side effect, buffs Lena.
+19

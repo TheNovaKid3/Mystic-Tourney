@@ -1,0 +1,24 @@
+Scratch
+4
+A weak scratching attack. Doesn't do much.
+0
+Bite
+7
+A simple bitting attack. May cause poison
+4
+Dragon's Breath
+9
+Breaths a torent of flames at the enemy. Does high damage and may burn.
+1
+Dragon Fear
+0
+Utilising a dragon's inherent killing intent, this move tries to paralyze the enemy
+3
+Draconic Aura
+0
+Focusing draconic magic to increase attack.
+11
+Jormungander
+10
+Summons a massive Icy serpent that deals incredible damage to the target. May Freeze.
+5

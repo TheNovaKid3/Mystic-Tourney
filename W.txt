@@ -1,0 +1,24 @@
+Punch
+4
+A weak punching attack. Doesn't do much.
+0
+Potion
+0
+A Regular Healing Potion.
+16
+Corrupted Potion
+6
+A healing potion gone bad thrown at the enemy. May posion
+4
+Exterminate
+7
+A burst of posionous energy that burst through the target. Does more damage if target is posioned.
+9
+Monochromatic Laser
+8
+A White, Black, or Grey Laser the does good damage.
+0
+Absolute Spark
+12
+Three Monochromatic Lasers that hit the enemy on all sides. Deals Major Damage
+0

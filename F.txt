@@ -1,0 +1,24 @@
+Nature's Gift
+0
+Uses the power of Nature to heal.
+16
+Cold Snap
+5
+A swirling of ice magic that torrents through the target. Does more damage if target is frozen
+10
+Heat Wave
+6
+A torent of fire magic that swirls around a target. Does more damage if the target is burned
+6
+Dream Theif
+7
+Slams the mind of a target with a wave of mental energy. Does more damgae if target is asleep
+7
+Thunder Struck
+8
+Hits the target with a bolt of magical lightning. Does more damage if target is paralyzed
+8
+Court Mischief
+11
+A blast of fae energy that explodes around a target. Does more damage if the target is poisoned
+9

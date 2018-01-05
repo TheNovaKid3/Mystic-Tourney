@@ -1,0 +1,24 @@
+Scratch
+4
+A weak scratching attack. Doesn't do much.
+0
+Foxfire
+7
+Hits the target with small burst of blue fire. May burn.
+1
+Night Daze
+9
+Utilise illusions to attack a traget from hiding. Does high damage.
+0
+Hypnosis
+0
+A Non-damaging move that puts the target to sleep
+2
+Illusion Delusion
+0
+Utilise illusions to decreses the chance of being hit by 1 stage this turn.
+14
+Foxfire Festival
+16
+Surronds the target in a spectacular display of pyrokinetic control that does incredible damage. 	May burn.
+1

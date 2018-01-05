@@ -1,0 +1,109 @@
+(i__main__
+Move
+p0
+(dp1
+S'_strength'
+p2
+I4
+sS'_se'
+p3
+I0
+sS'_des'
+p4
+S"A weak burst of magic. Doesn't do much.\n"
+p5
+sS'_name'
+p6
+S'Magic Missle\n'
+p7
+sb.(i__main__
+Move
+p0
+(dp1
+S'_strength'
+p2
+I5
+sS'_se'
+p3
+I10
+sS'_des'
+p4
+S'A swirling of ice magic that torrents through the target. Does more damage if target is frozen\n'
+p5
+sS'_name'
+p6
+S'Cold Snap\n'
+p7
+sb.(i__main__
+Move
+p0
+(dp1
+S'_strength'
+p2
+I8
+sS'_se'
+p3
+I0
+sS'_des'
+p4
+S'A wave of rainbow colored magic.\n'
+p5
+sS'_name'
+p6
+S'Rainbow Wave\n'
+p7
+sb.(i__main__
+Move
+p0
+(dp1
+S'_strength'
+p2
+I7
+sS'_se'
+p3
+I18
+sS'_des'
+p4
+S'A blast of counfusing magic which inflicts a random status.\n'
+p5
+sS'_name'
+p6
+S'Mystery Malady\n'
+p7
+sb.(i__main__
+Move
+p0
+(dp1
+S'_strength'
+p2
+I0
+sS'_se'
+p3
+I16
+sS'_des'
+p4
+S'Precisely what it says on the tin, Lena Magical heals herself by converting light into healing energy.\n'
+p5
+sS'_name'
+p6
+S'Light Heal\n'
+p7
+sb.(i__main__
+Move
+p0
+(dp1
+S'_strength'
+p2
+I12
+sS'_se'
+p3
+I19
+sS'_des'
+p4
+S'A Super Charged Rainbow Wave that, as a side effect, buffs Lena.\n'
+p5
+sS'_name'
+p6
+S'Rainbow Massacre\n'
+p7
+sb.
