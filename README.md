@@ -5,4 +5,5 @@ There are currently 6 characters: Kanade, a kitsune; Siegfried, a dragon; Alice,
 
 Each of the characters has a different battle style, whether it be incredibly tanky or inflicting status and taking advantge of those effects.
 
-To play this game you need a program which can run .py files. If you have one, you simply open MysticTourney.py and run it.
+## Playing the Game
+To play this game you need a program which can run .py files. If you have one, you simply open MysticTourney.py and run it. When you run it the main menu should pop up.
