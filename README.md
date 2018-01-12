@@ -8,7 +8,7 @@ Each of the characters has a different battle style, whether it be incredibly ta
 
 ## A Quick Look
 It's currently not very colorful but it works quite well in my opnion.
-<img scr="ScreenshotsV1/MainMenu.png/>
+<img src="ScreenshotsV1/MainMenu.png/>
 
 ## How to run
 To play this game you need a program which can run .py files. If you have one, you simply open MysticTourney.py and run it. When you run it the main menu should pop up. If you don not have one you can easily download IDLE.
